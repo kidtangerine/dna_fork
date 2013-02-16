@@ -1,0 +1,109 @@
+/*
+*
+*
+*	CSS for Area Node
+*
+*/
+
+
+/*	Structure
+-------------------------------------------------------------- */
+
+.areadivisions{
+	height:30px;
+	width:auto;
+	border:thin #666;
+	clear:none;
+	display:inline-block;
+	
+}
+#memphisbox{
+	height:20px;
+	width:20px;
+	background-color:#009999;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#midwestbox{
+	height:20px;
+	width:20px;
+	background-color:#993399;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#nashvillebox{
+	height:20px;
+	width:20px;
+	background-color:#006699;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#southernmiddlebox{
+	height:20px;
+	width:20px;
+	background-color:#ff9933;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#uppercumberlandbox{
+	height:20px;
+	width:20px;
+	background-color:#99cc33;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#chattanoogabox{
+	height:20px;
+	width:20px;
+	background-color:#ffff00;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#greatersmokybox{
+	height:20px;
+	width:20px;
+	background-color:#313193;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#knoxvillebox{
+	height:20px;
+	width:20px;
+	background-color:#999999;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
+#mountainbox{
+	height:20px;
+	width:20px;
+	background-color:#ff0099;
+	clear:none;
+	display:inline-block;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin:5px;
+}
